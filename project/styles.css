@@ -89,19 +89,3 @@ footer p {
 a:visited {
     color: #DDC4E8; 
 }
-
-@media (max-width: 768px) {
-    figure {
-        max-width: 200px; 
-    }
-}
-
-@media (max-width: 480px) {
-    figure {
-        max-width: 100%;
-    }
-
-    header h1 {
-        font-size: 1.8rem;
-    }
-}
